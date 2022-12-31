@@ -1,0 +1,25 @@
+.container{
+    border: 2px solid white;
+}
+.header{
+    background: white;
+    padding: 1rem;
+}
+.flex{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+.grid{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    align-items: center;
+}
+.textalign{
+    text-align: initial;
+}
+.searchbox{
+    border: 0.1rem solid gray;
+    padding: 0.5rem;
+}
