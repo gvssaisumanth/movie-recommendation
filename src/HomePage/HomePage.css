@@ -1,4 +1,16 @@
-.container{
+
+
+.home{
+  margin-top: 200px;
+  margin-left: inherit;
+  border: 2px solid white;
+  color:white;
+  padding: 0 30px;
+  width: 80%
+}
+
+
+/* .container{
     border: 2px solid white;
 }
 .moviegrid {
@@ -60,4 +72,4 @@
     background: white;
     padding: 1rem;
 }
-
+ */
